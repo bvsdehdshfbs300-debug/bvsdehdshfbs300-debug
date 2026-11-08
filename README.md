@@ -15,7 +15,7 @@
 
 <a href="https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/tide-composer.html"><img src="https://raw.githubusercontent.com/bvsdehdshfbs300-debug/dgw-ai-archive/main/content/assets/cases/tide-system.png" alt="潮汐作曲家实物运行照片" width="680"></a>
 
-[查看能力与作品证据](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/skills.html) · [教学与功能演示](https://space.bilibili.com/660494383) · [打开 AI 共创档案](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/)
+[潮汐技术架构与创新设计](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/tide-technology.html) · [查看能力与作品证据](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/skills.html) · [教学与功能演示](https://space.bilibili.com/660494383) · [打开 AI 共创档案](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/)
 
 [![我的作品与实践关系图](https://raw.githubusercontent.com/bvsdehdshfbs300-debug/dgw-ai-archive/main/content/assets/graph-preview.svg)](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/graph/)
 
