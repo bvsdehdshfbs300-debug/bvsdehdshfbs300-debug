@@ -1,24 +1,11 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/bvsdehdshfbs300-debug/dgw-ai-archive/main/content/assets/mascot.png" width="110" alt="地瓜丸吉祥物">
-<h1>你好，我是地瓜丸。</h1>
-<p>做 FPGA 教学、板端音画和网页产品，记录与 AI 一起调试和迭代的过程。</p>
-<p><a href="https://dgwfpga.cn/">体验我的 FPGA 教学平台</a> · <a href="https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/graph/">探索我的关系图</a> · <a href="https://space.bilibili.com/660494383">B站</a></p>
-</div>
+<div align="center"><img src="https://dgwfpga.cn/portfolio-media/20261109/assets/mascot/mascot-explaining.png" alt="地瓜丸的吉祥物" width="100"><h1>地瓜丸 · FPGA 教学与个人创作</h1><p>正在持续维护我的免费在线 FPGA 教学平台。</p><p><a href="https://dgwfpga.cn/practice/">开始练习 ↗</a> · <a href="https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/">平台介绍</a> · <a href="https://dgwfpga.cn/showcase/">国内介绍页</a></p></div>
 
-## 从三个案例认识我
+把写代码、连接引脚、运行和观察放在同一次练习里。目前有 31 个公开关卡、8 个章节，配有波形台、3D 硬件与逐针手册。
 
-| 案例 | 具体做过的事 |
-| --- | --- |
-| **[我的 FPGA 教学平台](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/platform.html)** | 31 个公开关卡、8 章；练习流程、波形、手册与交互迭代。 |
-| **[潮汐作曲家](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/tide-composer.html)** | FPGA 海洋音画实物；实时缩放、转场、固化与回读验证。 |
-| **[个人网站维护实践](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/maintenance.html)** | 从本机服务到云部署；监测通知、启动排查与更新验收。 |
+- [看平台实际功能与演示](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/platform.html)
+- [看潮汐作曲家的实物、海报与完整视频](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/tide-composer.html)
+- [逛工作室其他项目](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/projects.html)
+- [认识我们的吉祥物](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/mascot.html)
+- [去找地瓜丸→](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/contact.html)：抖音号 55753961013，B站 UID 660494383，FPGA 学习交流群 1125010630。
 
-<a href="https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/tide-composer.html"><img src="https://raw.githubusercontent.com/bvsdehdshfbs300-debug/dgw-ai-archive/main/content/assets/cases/tide-system.png" alt="潮汐作曲家实物运行照片" width="680"></a>
-
-[潮汐技术架构与创新设计](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/tide-technology.html) · [查看能力与作品证据](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/skills.html) · [教学与功能演示](https://space.bilibili.com/660494383) · [打开 AI 共创档案](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/)
-
-[![我的作品与实践关系图](https://raw.githubusercontent.com/bvsdehdshfbs300-debug/dgw-ai-archive/main/content/assets/graph-preview.svg)](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/graph/)
-
-[公开个人摘要](https://github.com/bvsdehdshfbs300-debug/dgw-ai-archive/blob/main/PROFILE.md) · [最近在做什么](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/now.html) · [平台功能介绍](https://github.com/bvsdehdshfbs300-debug/fpga-teaching-showcase)
-
-FPGA 学习交流群：**1125010630**。欢迎体验作品，也欢迎指出问题。
+[AI 共创档案与作品关系图](https://bvsdehdshfbs300-debug.github.io/dgw-ai-archive/graph/)保留作品、问题和方法之间的联系，沿具体过程了解我的实践。
